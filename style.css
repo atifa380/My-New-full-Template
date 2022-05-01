@@ -64,3 +64,19 @@ body {
       padding: 10px;
       margin: 20px 0px;
   }
+
+  /* footer */
+  
+.footer{
+    height: 150px;
+  }
+  .social-footer{
+    text-align: center;
+  }
+  .social-footer > li {
+    display: inline;
+  }
+  
+  .social-footer > i {
+    font-size: large;
+  }
